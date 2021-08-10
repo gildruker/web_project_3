@@ -1,0 +1,36 @@
+.place__paragraph{
+    color: white;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: normal;
+    margin-bottom: 25px;
+    margin-top: 0;
+    max-width: 484px;
+}
+
+@media screen and (max-width:1024px){
+    .place__paragraph{
+        max-width:456px;
+        }
+}
+
+@media screen and (max-width:768px){
+    .place__paragraph{
+        max-width:352px;
+        }
+
+}
+
+@media screen and (max-width:320px){
+    .place__paragraph{
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        max-width: 288px;
+        margin-left: 5.5%;
+    
+        }
+}
