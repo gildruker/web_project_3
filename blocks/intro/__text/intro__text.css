@@ -1,18 +1,24 @@
 .intro__text{
-    color:white;
+    font-family: Inter;
     font-size: 16px;
-    line-height: 1.63;
-    font-weight: normal;
-    margin: 0 0 33px 0;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin:32px 0 0;
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:767px){
     .intro__text{
+        font-family: Inter;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 26px;
         letter-spacing: 0em;
         text-align: left;
-        }
+        
+    }
 }

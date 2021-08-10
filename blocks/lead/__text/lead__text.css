@@ -1,7 +1,5 @@
 .lead__text{
-    max-width: 984px;
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-self: flex-start;
+    align-items: flex-start;
+    width:100%;
 }

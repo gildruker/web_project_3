@@ -1,4 +1,10 @@
 .place__paragraphs{
-    display: flex;
-    flex-direction: column;
+    grid-area: paragraphs;
+
+}
+
+@media screen and (max-width:767px) {
+    .place__paragraphs{
+        width:288px;
+    }  
 }
