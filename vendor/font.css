@@ -1,4 +1,13 @@
 @font-face {
     font-family: inter;
     src: url(/font/Inter-VariableFont_slnt\,wght.ttf);
+    src: url(/font/Inter-Thin.ttf);
+    src: url(/font/Inter-SemiBold.ttf);
+    src: url(/font/Inter-Regular.ttf);
+    src: url(/font/Inter-Medium.ttf);
+    src: url(/font/Inter-Light.ttf);
+    src: url(/font/Inter-ExtraLight.ttf);
+    src: url(/font/Inter-ExtraBold.ttf);
+    src: url(/font/Inter-Bold.ttf);
+    src: url(/font/Inter-Black.ttf);
 }
