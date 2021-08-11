@@ -1,8 +1,5 @@
 .place__url-heading{
-    font-family: Inter;
     font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 20px;
     letter-spacing: 0.2em;
     text-align: left;
@@ -14,10 +11,7 @@
 @media screen and (max-width:767px) {
     
    .place__url-heading{ 
-    font-family: Inter;
     font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 12px;
     letter-spacing: 0.2em;
     text-align: left;
