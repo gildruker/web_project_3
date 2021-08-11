@@ -14,7 +14,7 @@
 }
 
 @font-face {
-    font-family: 'inter'; 
+    font-family: 'inter';
     src: url(../font/inter-v3-latin-700.woff) format("woff");
     src: url(../font/inter-v3-latin-700.woff2) format("woff2");
     font-weight: bold;
