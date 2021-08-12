@@ -13,14 +13,3 @@
     opacity: 0.8;
 }
 
-@media screen and (max-width:767px) {
-    .place__link{
-        font-size: 18px;
-        line-height: 22px;
-        letter-spacing: 0em;
-        text-align: left;
-
-    }
-}
-
-

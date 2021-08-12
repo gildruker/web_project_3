@@ -29,6 +29,8 @@
         flex-direction: column;
         width:288px;
         margin-bottom: 12px;
+        margin-top: 64px;
+        grid-gap:0;
     }
 
 }

@@ -4,17 +4,22 @@
     line-height: 28px;
     letter-spacing: 0em;
     margin-right:18px;
+    transition:opacity 0.3s ease-in;
+    text-decoration: none;
 }
 
 .header__lang-link:last-child{
     margin:0;
 }
 
+.header__lang-link:hover{
+    opacity: 0.8;
+}
+
 @media screen and (max-width:767px){
     .header__lang-link{
         font-size: 18px;
         line-height: 20px;
-        letter-spacing: 0em;
         text-align: right;
 
     }

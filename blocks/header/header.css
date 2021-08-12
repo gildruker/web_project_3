@@ -1,5 +1,6 @@
 .header{
     width:calc(100% - (148px * 2));
+    max-width: 1184px;
     margin:0 auto;
     padding-top:34px;
     display: flex;
@@ -22,5 +23,6 @@
 @media screen and (max-width:767px){
     .header{
         width:calc(100% - 32px);
+        padding-top: 20px;
     }
 }

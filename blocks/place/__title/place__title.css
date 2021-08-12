@@ -21,11 +21,7 @@
     .place__title{
         width:340px;
         font-size: 42px;
-        font-weight: 900;
         line-height: 46px;
-        letter-spacing: 0em;
-        text-align: left;
-
     }
 }
 
@@ -33,11 +29,8 @@
     .place__title{
         width:288px;
         font-size: 32px;
-        font-weight: 900;
         line-height: 35px;
-        letter-spacing: 0em;
-        text-align: left;
         margin-left: 5.5%;
-
+        margin-bottom: 30px;
     }
 }

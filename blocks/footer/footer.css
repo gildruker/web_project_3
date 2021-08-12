@@ -3,10 +3,11 @@
     max-width:1184px;
     display: flex;
     justify-content: space-between;
+    padding-bottom: 24px;
 }
 
 
-@media screen and (max-width:767px){
+@media screen and (max-width:1279px){
     .footer{
         max-width: 928px;
     }
@@ -14,8 +15,10 @@
 
 
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:1023px) {
     .footer{
         flex-direction: column;
+        max-width: 720px;
+        margin-top: 64px;
     }
 }
